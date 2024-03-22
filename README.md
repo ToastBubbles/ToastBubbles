@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ToastBubbles<br>👀 I’m interested in Coding<br>🌱 I’m currently learning Coding<br>💞️ I’m looking to collaborate on Coding <img src="https://i.imgur.com/COQgiNA.png"   alt="Boomhauer" width="20" height="20" style="display:inline;"/>
+👋 Hi, I’m @ToastBubbles<br>👀 I’m interested in Coding<br>🌱 I’m currently learning Coding<br><img src="https://i.imgur.com/COQgiNA.png"   alt="Boomhauer" width="20" height="20" style="display:inline;"/> I’m looking to get a dang ol' job, man!
 
 
 ## 🌐 Socials:
